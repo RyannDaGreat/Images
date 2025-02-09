@@ -1,0 +1,10 @@
+
+#<RP Default Gitignore Start>
+*.pyc
+*.swo
+*.swp
+*.swn
+*.un~
+*.DS_Store
+#<RP Default Gitignore End>
+
